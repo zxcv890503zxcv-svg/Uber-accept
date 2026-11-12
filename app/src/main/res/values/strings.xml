@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Uber 好單提醒</string>
+    <string name="service_label">Uber 好單提醒服務</string>
+    <string name="service_desc">讀取 Uber Driver 派單畫面的價格與距離，每公里價格達標就跳通知提醒你（不會幫你按任何按鈕）。</string>
+</resources>
